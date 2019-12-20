@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2,
+    "author": "Netology",
+    "content": "Kotlin",
+    "location": {
+      "first": 55.66,
+      "second": 0.0
+    },
+    "countLike": 1,
+    "countChat": 555,
+    "countCommmit": 599,
+    "wet": "",
+    "resource": "",
+    "created": "",
+    "likedByMe": true,
+    "postType": "POST",
+    "source": null
+  },
+  {
+    "id": 3,
+    "author": "Netology",
+    "content": "First REPOST in our network!",
+    "location": {
+      "first": 1.11,
+      "second": 9.99
+    },
+    "countLike": 10,
+    "countChat": 7,
+    "countCommmit": 5,
+    "wet": "",
+    "resource": "",
+    "created": "",
+    "likedByMe": true,
+    "postType": "REPOST",
+    "source": null
+  },
+  {
+    "id": 4,
+    "author": "Google",
+    "content": "Кто-то ждет дождя а кто-то - солнца. Узнай вероятность дождя на завтра спомощю Google Поиска",
+    "location": {
+      "first": 0.0,
+      "second": 0.0
+    },
+    "countLike": 2222,
+    "countChat": 111,
+    "countCommmit": 444,
+    "wet": "Завтра опять будет дождь ?",
+    "resource": "",
+    "created": "",
+    "likedByMe": true,
+    "postType": "ADVERTISING",
+    "source": null
+  },
+  {
+    "id": 5,
+    "author": "YouTube",
+    "content": "",
+    "location": {
+      "first": 0.0,
+      "second": 0.0
+    },
+    "countLike": 100,
+    "countChat": 133,
+    "countCommmit": 222,
+    "wet": "",
+    "resource": "",
+    "created": "",
+    "likedByMe": true,
+    "postType": "VIDEO",
+    "source": null
+  }
+]
